@@ -5,7 +5,7 @@ Celem projektu jest analiza danych pasażerów statku Titanic oraz budowa modeli
 Projekt został wykonany w języku Python z wykorzystaniem bibliotek służących do analizy danych oraz uczenia maszynowego.
 
 Wykorzystane technologie
-Python
+- Python
 Pandas
 NumPy
 Matplotlib
