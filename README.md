@@ -1,5 +1,4 @@
 Titanic Survival Prediction
-Opis projektu
 
 Celem projektu jest analiza danych pasażerów statku Titanic oraz budowa modeli uczenia maszynowego umożliwiających przewidywanie przeżycia pasażera na podstawie dostępnych informacji.
 
