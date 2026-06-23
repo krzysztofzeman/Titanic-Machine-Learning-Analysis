@@ -1,16 +1,18 @@
-Titanic Survival Prediction
+**Titanic Sutvival Prediction**
 
 Celem projektu jest analiza danych pasażerów statku Titanic oraz budowa modeli uczenia maszynowego umożliwiających przewidywanie przeżycia pasażera na podstawie dostępnych informacji.
 
 Projekt został wykonany w języku Python z wykorzystaniem bibliotek służących do analizy danych oraz uczenia maszynowego.
 
-Wykorzystane technologie
+Wykorzystane technologie:
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 - Scikit-Learn
+
+
 
 Zakres projektu
 
